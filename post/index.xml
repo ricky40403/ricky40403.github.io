@@ -6,34 +6,22 @@
     <description>Recent content in Posts on Chia-Tse Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 23:22:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 23:22:10 +0800</lastBuildDate>
     
 	<atom:link href="https://ricky40403.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pytorch C&#43;&#43; Front</title>
-      <link>https://ricky40403.github.io/2020/04/pytorch-c-front/</link>
-      <pubDate>Sun, 26 Apr 2020 23:22:10 +0800</pubDate>
+      <link>https://ricky40403.github.io/2020/05/pytorch-c-front/</link>
+      <pubDate>Sat, 02 May 2020 23:22:10 +0800</pubDate>
       
-      <guid>https://ricky40403.github.io/2020/04/pytorch-c-front/</guid>
+      <guid>https://ricky40403.github.io/2020/05/pytorch-c-front/</guid>
       <description>Sometimes we need an efficiency, low latency enviroment to run our model.
 Also, most of the embedded system is written in C/C++, the C++ front can makeC++ developers directly use C++ to build their pytorch model as well.
 You could reference the official installing guide to build the example.
  The design of the C++ front-end follow the following rules:
   Closely model the Python frontend in its design:</description>
-    </item>
-    
-    <item>
-      <title>Pytorch Front CMake</title>
-      <link>https://ricky40403.github.io/posts/pytorch_cmake/</link>
-      <pubDate>Sun, 26 Apr 2020 23:22:10 +0800</pubDate>
-      
-      <guid>https://ricky40403.github.io/posts/pytorch_cmake/</guid>
-      <description>Error   CUDA_cublas_LIBRARY-NOTFOUND
-It is that camke can not find cuda, it seems that someone also get this error when using CUDA10. !(https://stackoverflow.com/questions/54347530/how-to-link-cublas-library-with-cmake-cuda-10-0-ubuntu-18)
-  cmake ssl problem
-  sudo apt install libssl-dev </description>
     </item>
     
   </channel>
