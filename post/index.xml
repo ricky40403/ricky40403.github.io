@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chia-Tse Site</title>
-    <link>https://ricky40403.github.io/</link>
-    <description>Recent content on Chia-Tse Site</description>
+    <title>Posts on Chia-Tse Site</title>
+    <link>https://ricky40403.github.io/post/</link>
+    <description>Recent content in Posts on Chia-Tse Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 23:22:10 +0800</lastBuildDate>
     
-	<atom:link href="https://ricky40403.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ricky40403.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -34,15 +34,6 @@ You could reference the official installing guide to build the example.
 It is that camke can not find cuda, it seems that someone also get this error when using CUDA10. !(https://stackoverflow.com/questions/54347530/how-to-link-cublas-library-with-cmake-cuda-10-0-ubuntu-18)
   cmake ssl problem
   sudo apt install libssl-dev </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://ricky40403.github.io/page/contact/</link>
-      <pubDate>Sat, 25 Apr 2020 21:19:45 +0800</pubDate>
-      
-      <guid>https://ricky40403.github.io/page/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
